@@ -1,0 +1,19 @@
+current directory: /home/brknblade/Desktop/brkn-blade.github.io/.bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/brknblade/Desktop/brkn-blade.github.io/.bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250129-12447-ozzm4c sitelibdir\=./.gem.20250129-12447-ozzm4c clean
+
+current directory: /home/brknblade/Desktop/brkn-blade.github.io/.bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250129-12447-ozzm4c sitelibdir\=./.gem.20250129-12447-ozzm4c
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/brknblade/Desktop/brkn-blade.github.io/.bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250129-12447-ozzm4c sitelibdir\=./.gem.20250129-12447-ozzm4c install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250129-12447-ozzm4c
+
+current directory: /home/brknblade/Desktop/brkn-blade.github.io/.bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250129-12447-ozzm4c sitelibdir\=./.gem.20250129-12447-ozzm4c clean
