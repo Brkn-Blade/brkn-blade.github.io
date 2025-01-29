@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Another Page"
+---
+
+# This is a New Title
+
+And this is some text
+
+## Have a great time hommie
+
+And, don't forget that Jesus loves you
