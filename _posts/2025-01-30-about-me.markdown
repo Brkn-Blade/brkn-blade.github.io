@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Acerca de mi"
+---
+
+# Frank Steban Soto Barreto
+
+## Técnico Informatico
+
+<img src="../../../_site/assets/furina.png" width="200" height="200">
+
+### Estudios
+
+- Sistemas microinformaticos y redes
+- Desarrollo de aplicaciones web
+
+### Contacto
+
+- **Telefono:** 123456789
+- **Correo:** 11552449@alu365.murciaeduca.es
