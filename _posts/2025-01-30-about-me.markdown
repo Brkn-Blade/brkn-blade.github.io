@@ -7,7 +7,7 @@ title: "Acerca de mi"
 
 ## Técnico Informatico
 
-<img src="../../../_site/assets/furina.png" width="200" height="200">
+<img src="/assets/furina.png" width="200" height="200">
 
 ### Estudios
 
